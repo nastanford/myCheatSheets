@@ -6,6 +6,8 @@ if you are wanting to use MySQL
 
 1. Choose Web folder
 > c:\example
+> cd example
+> box
 
 2. in webroot folder
 > install commadbox-cfconfig
