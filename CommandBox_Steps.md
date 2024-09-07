@@ -5,9 +5,9 @@ if you are wanting to use MySQL
 > C:\drivers\mysql-connector-j-8.4.0.jar
 
 1. Choose Web folder
-> c:\example
-> cd example
-> box
+- c:\example
+- cd example
+- box
 
 2. in webroot folder
 > install commadbox-cfconfig
