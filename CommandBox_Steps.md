@@ -15,6 +15,7 @@ if you are wanting to use MySQL
 3. Start new server in webroot folder port not required 
  
 > server start port=8080 cfengine=adobe
+wait until the server starts before proceeding.
 
 4. To Set Password in webroot folder 
 
